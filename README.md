@@ -57,53 +57,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## Featured projects
-
-### [IoT Platform](https://github.com/kienqt-it/iot-platform)
-
-A full-stack IoT and smart-agriculture platform organized as a Turborepo monorepo. It combines a **Next.js dashboard**, **NestJS API**, **Prisma**, **MQTT**, WebSockets, device and gateway management, automation scheduling, notifications, file storage, and prediction services.
-
-`TypeScript` · `Next.js` · `NestJS` · `Prisma` · `MQTT` · `WebSockets` · `Docker`
-
-### [YouTube Subtitle Translator](https://github.com/kienqt-it/YouTube-Subtitle-Translator---Local-Extension)
-
-A local-first Chrome/Edge extension that translates and synchronizes subtitles directly on YouTube. Built with **Manifest V3**, WXT, React, TypeScript, Tailwind CSS, Shadow DOM, and a local Python backend with caching and batched translation.
-
-`TypeScript` · `React` · `WXT` · `Chrome Extension` · `Python`
-
-### [Auto Check-in](https://github.com/kienqt-it/autoCheckin)
-
-A Dockerized browser-automation service with scheduled, multi-account check-ins, persistent Chromium profiles, structured logging, retry control, and automated tests. The authentication flow is designed to stop safely when manual CAPTCHA, 2FA, or Cloudflare verification is required.
-
-`Node.js` · `Playwright` · `Docker Compose` · `Automation` · `Testing`
-
-### [Wireless Anti-Jamming with DRL](https://github.com/kienqt-it/anti_Jamming_DRL)
-
-A simulation of adaptive wireless communication under dynamic jamming. It models the problem as an MDP and compares **tabular Q-Learning** with **DQN/Dueling DQN**, including experience replay, target networks, energy harvesting, and ambient backscatter.
-
-`Python` · `TensorFlow` · `Deep Reinforcement Learning` · `Q-Learning`
-
-### [Doc Forum](https://github.com/kienqt-it/doc_forum)
-
-A responsive healthcare community platform featuring doctor discovery, user authentication, posts, comments, rankings, notifications, and real-time chat.
-
-`React` · `Express` · `MongoDB` · `Firebase` · `Socket.IO`
-
-### [K7301 — 80th Anniversary](https://github.com/kienqt-it/k7301-80yrs)
-
-A mobile-first contribution campaign with public progress tracking, contribution management, admin workflows, and an accessible, story-led interface designed around transparency and trust.
-
-`React` · `Vite` · `Express` · `LibSQL` · `Tailwind CSS`
-
-## GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kienqt-it&show_icons=true&hide_border=true&theme=transparent" alt="Quan Trung Kien's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kienqt-it&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-</p>
-
----
-
 <p align="center">
   Open to learning, collaboration, and building useful software.
 </p>
